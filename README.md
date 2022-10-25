@@ -55,6 +55,12 @@ The weather information uses [Visual Crossing's Weather API](https://www.visualc
 
 We created a JavaScript object locally for the beaches; we found the information on [Environment Agency's Bathing Water website](https://environment.data.gov.uk/bwq/profiles/) and they are also stored on the MongoDB Atlas database.
 
+# Screenshots
+![](screenshots/homepage.png)
+![](screenshots/Map.png)
+![](screenshots/Register.png)
+![](screenshots/Signin.png)
+
 # Approaching the task
 Coming up with a solid idea of what we wanted to achieve was quite the challenge itself. We bounced ideas back and forth only knowing we were building something related to holidays. We settled on the idea of Beach Finder, decided what tech stack we wanted to use and why we thought it was appropriate, then looked at features and functionality we would like to implement. 
 
